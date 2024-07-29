@@ -1,1 +1,3 @@
-{}
+{
+  "run": "https://raw.githubusercontent.com/LizardRush/RushZSH/main/extensions/run.sh"
+}
